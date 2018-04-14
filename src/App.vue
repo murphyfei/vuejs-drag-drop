@@ -10,6 +10,6 @@ export default {
 }
 </script>
 
-<style>
-
+<style lang="css">
+  @import "css/style.css"
 </style>
